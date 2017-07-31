@@ -1,3 +1,3 @@
-# Learn Rails1
+# Learn Rails
 
-Learn Rails with this tutorial from [learn-rails.com] (http://learn-rails.com/).
+Learn Rails with this amazing tutorial from [learn-rails.com] (http://learn-rails.com/).
